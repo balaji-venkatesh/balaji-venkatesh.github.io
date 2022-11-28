@@ -1,3 +1,0 @@
-VR Spanish Flu Demonstration, does not actively collect, utilise, or distribute any information about you or your device. 
-
-The software used to build VR Spanish Flu Demonstration may collect, utilise, or distribute information about you and your device. Please check the privacy policies of Google and the Unity Game Engine for details about their use of your information.
