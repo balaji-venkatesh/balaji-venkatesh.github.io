@@ -20,9 +20,6 @@ layout: default
 </div>
 
 <script>
-	window.onload = function () {
-		const d = new Date()
-		h = d.getHours()
-		document.getElementById('greeting').innerHTML = (h < 12) ? 'Good morning!' : (h < 18) ? 'Good afternoon!' : (h < 22) ? 'Good evening!' : 'Hey there!'
-	}
+	const h = (new Date()).getHours()
+	document.querySelector('#greeting').innerHTML = (h < 12) ? 'Good morning!' : (h < 17) ? 'Good afternoon!' : (h < 22) ? 'Good evening!' : 'Hey there!'
 </script>
