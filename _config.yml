@@ -2,6 +2,3 @@ defaults:
     - values:
         layout: "default"
         order: 1000
-    
-plugins:
-    - jekyll-readme-index
