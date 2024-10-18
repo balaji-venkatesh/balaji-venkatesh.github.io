@@ -78,6 +78,12 @@ title: CV
 
 <style>
 h4, .lead{
-    margin-bottom: 0px !important;
+	margin-bottom: 0rem !important;
+}
+h4{
+	margin-top: 1.5rem !important;
+}
+h2 {
+	margin-top: 2rem !important;
 }
 </style>
