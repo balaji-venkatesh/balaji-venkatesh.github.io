@@ -58,9 +58,9 @@ projects:
       icon: github
 ---
 
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
+<div class=" row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-3 justify-content-center">
   {% for project in page.projects %}
-  <div class="col">
+  <div class="col" style="max-width:300px !important">
     <div class="card h-100">
       <img src="{{project.img.src}}" height="200px" class="placeholder card-img-top" alt="{{project.img.alt}}">
       <div class="card-body">
