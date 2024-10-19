@@ -1,12 +1,12 @@
 ---
 title: CV
-navbarextra: <a target="_blank" href="/assets/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-download"></i></a>
+navbarextra: <a href="/assets/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-file-earmark-pdf-fill"></i> <i class="bi-download"></i></a>
 ---
 
-## Education
+### Education
 
-#### Bachelor of Applied Science in Engineering Science with Honours
-<p class="lead">University of Toronto | Toronto, Canada | Sep 2020 - Apr 2024</p>
+##### Bachelor of Applied Science in Engineering Science with Honours
+###### University of Toronto | Toronto, Canada | Sep 2020 - Apr 2024
 - Major in Electrical & Computer Engineering
 - Relevant Courses: 
   - Computer Architecture [C, Benchmarking]
@@ -21,69 +21,68 @@ navbarextra: <a target="_blank" href="/assets/bv-resume-2024.pdf" type="button" 
 - Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
 - Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, *Sep 2021*
 
-## Skills
+### Skills
 
 - Professional: Self-lead Research & Development, Collaboration, Management, Problem-solving
 - Hardware Design: Verilog, HLS, AMD Vivado / Vitis, Intel Quartus, AWS F1 FPGA 
 - Programming: C, Java, Python, Assembly, Scripting, Web Development
 - Electronics: Microcontrollers (Arduino, Raspberry Pi), Breadboarding, PCB Design, Prototyping
 
-## Work Experience
+### Work Experience
 
-#### Belief Propagation Accelerator, UG Thesis Research Student [C, HLS, Verilog, AWS FPGA]
-<p class="lead">University of Toronto | Toronto, Canada | Sep 2023 - Apr 2024</p>
+##### Belief Propagation Accelerator, UG Thesis Research Student <small> [C, HLS, Verilog, AWS FPGA] </small>
+###### University of Toronto | Toronto, Canada | Sep 2023 - Apr 2024
 - Building a hardware accelerator for the residual belief propagation algorithm on AWS FPGA
 - Learning task-based speculative parallelism
 - Implementing hardware designs with HLS and Verilog and programming with C for RISC-V
 - Migrating Chronos scripting from Bash to Tcl
 
-#### Multi-FPGA Matrix Multiplier, UG Summer Research Assistant  [C, HLS, Verilog, AMD FPGA]
-<p class="lead">University of Toronto | Toronto, Canada | May 2023 - Aug 2023</p>
+##### Multi-FPGA Matrix Multiplier, UG Summer Research Assistant  <small> [C, HLS, Verilog, AMD FPGA] </small>
+###### University of Toronto | Toronto, Canada | May 2023 - Aug 2023
 - Conceptualized hardware accelerator for very large matrix processing over networked FPGAs
 - Designed accelerator cores in Verilog and HLS
 - Tested easyDMA direct memory interface using AXI steams
 - Programmed application software in C
 
-#### Altium Education, Platform Development Intern [Web Development]
-<p class="lead">Altium Limited | La Jolla, California and Remote | Mar 2021 - Mar 2023</p>
+##### Altium Education, Platform Development Intern <small> [Web Development] </small>
+###### Altium Limited | La Jolla, California and Remote | Mar 2021 - Mar 2023
 - Developed web platforms and curriculum for courses about printed circuit board design
 - Integrated services together with open-source libraries
 - Worked with an international team of developers, designers, and teachers
 - Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
 
-#### Doppler Radar Simulator Improvements, UG Summer Research Assistant  [MATLAB, Python]
-<p class="lead">University of Toronto | Toronto, Canada | May 2021 - Sep 2021</p>
+##### Doppler Radar Simulator Improvements, UG Summer Research Assistant  <small> [MATLAB, Python] </small>
+###### University of Toronto | Toronto, Canada | May 2021 - Sep 2021
 - Improved a simulator for training a doppler radar neural network in MATLAB
 - Collaborated with an international research team based in Canada and the UK
 - Wrote image processing scripts in Python
 
-## Volunteer Experience
+### Volunteer Experience
 
-#### Head Mentor and Director [Java, Python, Prototyping]
-<p class="lead">Markham Community FIRST Robotics Club | Markham, Canada | Jun 2017 - Oct 2024</p>
+##### Head Mentor and Director <small> [Java, Python, Prototyping] </small>
+###### Markham Community FIRST Robotics Club | Markham, Canada | Jun 2017 - Oct 2024
 - Managing finances for a not-for-profit corporation
 - Mentoring youth in business strategy, mechanical design, software programming, and team leadership
 - Planning outreach events and proposing sponsorships to local businesses
 
-#### Computer Systems Administrator / Webmaster [Scripting, Web Development]
-<p class="lead">University of Toronto Engineering Society | Toronto, Canada | May 2022 - May 2024</p>
+##### Computer Systems Administrator / Webmaster <small> [Scripting, Web Development] </small>
+###### University of Toronto Engineering Society | Toronto, Canada | May 2022 - May 2024
 - Administrating cloud storage, emails, and websites for most (over 50) UofT Engineering Society design teams, clubs, and associated organizations
 - Modernizing legacy computing equipment and migrating to cloud services
 - Managing an office network
 
-#### Electrical Team Member [PCB Design]
-<p class="lead">University of Toronto Robotics for Space Exploration | Toronto, Canada | May 2022 - Aug 2022</p>
+##### Electrical Team Member <small> [PCB Design] </small>
+###### University of Toronto Robotics for Space Exploration | Toronto, Canada | May 2022 - Aug 2022
 - Conceptualized a circuit board for space rover peripheral power control
 - Implemented the neopixel protocol to control LEDs
 - Designed the PCB using Altium Designer
 
-<style>
-h4, .lead{
-	margin-bottom: 0rem !important;
-}
-h4{
-	margin-top: 1rem !important;
-  font-weight: 400
-}
+<hr>
+<a href="https://www.linkedin.com/in/balajivca/" class="mb-1 btn btn-lg btn-primary"><i class="bi bi-linkedin"></i> balajivca </a>
 
+<style>
+h5, h6{
+	margin-bottom: 0.5rem !important;
+  font-weight: 300 !important;
+}
 </style>
