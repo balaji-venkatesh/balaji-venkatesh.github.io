@@ -82,9 +82,8 @@ h4, .lead{
 	margin-bottom: 0rem !important;
 }
 h4{
-	margin-top: 1.5rem !important;
+	margin-top: 1rem !important;
+  font-weight: 400
 }
-h2 {
-	margin-top: 2rem !important;
-}
+
 </style>
