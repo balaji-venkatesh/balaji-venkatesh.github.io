@@ -1,6 +1,6 @@
 ---
 title: CV
-navbarextra: <a target="_blank" href="/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-download"></i></a>
+navbarextra: <a target="_blank" href="/assets/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-download"></i></a>
 ---
 
 ## Education
@@ -16,8 +16,8 @@ navbarextra: <a target="_blank" href="/bv-resume-2024.pdf" type="button" class="
   - Signals and Systems
   - Digital and Computer Systems [Intel Quartus, ARMv7 Assembly]
   - Computer Organization [NIOS II Assembly, Verilog]
-- Cumulative GPA of 3.54/4.00
-- Fourth year GPA of 3.90/4.00
+- Cumulative GPA of 3.5/4
+- Fourth year GPA of 3.9/4
 - Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
 - Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, *Sep 2021*
 
