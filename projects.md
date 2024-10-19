@@ -41,7 +41,7 @@ projects:
   - title: ECE352 Vector Extension
     text: Our ECE352 project was a SIMD (vector) extension for a multicycle processor.
     img:
-      src: /ece352-project/datra.jpeg
+      src: /ece352-project/datra.PNG
       alt: Diagram of processor.
     links:
     - href: https://github.com/balaji-venkatesh/ece352-project
