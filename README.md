@@ -4,7 +4,7 @@ order: 1
 permalink: /
 ---
 
-<img class="rounded float-md-start me-3" src="/bv.jpg" width="200" alt="Photo of Balaji Venkatesh">
+<img class="rounded float-md-start me-3" src="/bv.jpeg" width="200" alt="Photo of Balaji Venkatesh">
 
 <p class="lead">
     Hi there! My name is Balaji Venkatesh.
