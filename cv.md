@@ -1,5 +1,6 @@
 ---
 title: CV
+navbarextra: <a target="_blank" href="/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-download"></i></a>
 ---
 
 ## Education

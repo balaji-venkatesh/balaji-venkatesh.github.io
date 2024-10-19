@@ -11,14 +11,11 @@
 </head>
 
 <body>
-    <script src="/colourMode.js"></script>
+    <script src="/assets/colourMode.js"></script>
     <nav class="navbar navbar-expand-md sticky-top bg-body-tertiary ">
         <div class="container">
             <a href="/" class="navbar-brand">Balaji Venkatesh: {{page.title}} </a>
-            {% if page.title == "CV" %}
-            <a target="_blank" href="/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i
-                    class="bi-download"></i></a>
-            {% endif %}
+            {{page.navbarextra}}
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
                 <span class="navbar-toggler-icon"></span>
             </button>
