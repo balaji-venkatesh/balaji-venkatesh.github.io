@@ -48,7 +48,7 @@ projects:
       text: Source
       icon: github
   - title: Snek
-    text: Snek is a pixel graphics game built in Java 8. It's Snake, but with 2 Snakes! Includes an underlying from-scratch game engine with sprites, fonts, timers, and customizable keyboard controls.
+    text: Snek is a pixel graphics game built in Java 8. It's Snake, but with 2 Snakes! It includes an underlying from-scratch game engine with sprites, fonts, timers, and customizable keyboard controls.
     img:
       src: /snek/screenshot.png
       alt: Screenshot of snek game.
@@ -58,13 +58,11 @@ projects:
       icon: github
 ---
 
-<script src="https://cdn.jsdelivr.net/npm/masonry-layout@4.2.2/dist/masonry.pkgd.min.js" integrity="sha384-GNFwBvfVxBkLMJpYMOABq3c+d3KnQxudP/mGPkzpZSTYykLBNsZEnG2D9G/X/+7D" crossorigin="anonymous" async></script>
-
-<div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4" data-masonry='{"percentPosition": true }'>
+<div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xl-4 g-4">
   {% for project in page.projects %}
   <div class="col">
-    <div class="card">
-      <img src="{{project.img.src}}" class="placeholder card-img-top" alt="{{project.img.alt}}">
+    <div class="card h-100">
+      <img src="{{project.img.src}}" height="200px" class="placeholder card-img-top" alt="{{project.img.alt}}">
       <div class="card-body">
         <h5 class="card-title">{{project.title}}</h5>
         <p class="card-text">{{project.text}}</p>
