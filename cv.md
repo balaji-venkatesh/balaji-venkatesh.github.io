@@ -1,25 +1,7 @@
 ---
 title: CV
-navbarextra: <a href="/assets/bv-resume-2024.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-file-earmark-pdf-fill"></i> <i class="bi-download"></i></a>
+navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-file-earmark-pdf-fill"></i> <i class="bi-download"></i></a>
 ---
-
-### Education
-
-##### Bachelor of Applied Science in Engineering Science with Honours
-###### University of Toronto | Toronto, Canada | Sep 2020 - Apr 2024
-- Major in Electrical & Computer Engineering
-- Relevant Courses: 
-  - Computer Architecture [C, Benchmarking]
-  - Computer Systems Programming  [C, C++]
-  - Internetworking
-  - Computer Networks I & II
-  - Signals and Systems
-  - Digital and Computer Systems [Intel Quartus, ARMv7 Assembly]
-  - Computer Organization [NIOS II Assembly, Verilog]
-- Cumulative GPA of 3.5/4
-- Fourth year GPA of 3.9/4
-- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
-- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, *Sep 2021*
 
 ### Skills
 
@@ -56,6 +38,31 @@ navbarextra: <a href="/assets/bv-resume-2024.pdf" type="button" class="me-auto b
 - Improved a simulator for training a doppler radar neural network in MATLAB
 - Collaborated with an international research team based in Canada and the UK
 - Wrote image processing scripts in Python
+
+### Education
+
+##### Bachelor of Applied Science in Engineering Science with Honours
+###### University of Toronto | Toronto, Canada | Sep 2020 - Apr 2024
+- Major in Electrical & Computer Engineering
+- Relevant Courses: 
+  - Computer Architecture [C, Benchmarking]
+  - Computer Systems Programming  [C, C++]
+  - Internetworking
+  - Computer Networks I & II
+  - Signals and Systems
+  - Digital and Computer Systems [Intel Quartus, ARMv7 Assembly]
+  - Computer Organization [NIOS II Assembly, Verilog]
+- Cumulative GPA of 3.5/4
+- Fourth year GPA of 3.9/4
+- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
+- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, *Sep 2021*
+
+##### Implementing and Administering Cisco Solutions
+###### Cisco U | Remote | Nov 2024 - Present
+- Install, operate, configure, and verify basic IPv4 and IPv6 networks
+- Configure network components, such as switches, routers, and wireless LAN controllers
+- Manage network devices and identify basic security threats
+- Describe and define network programmability, automation, and software-defined networking
 
 ### Volunteer Experience
 
