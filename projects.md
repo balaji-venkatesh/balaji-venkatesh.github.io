@@ -6,28 +6,28 @@ projects:
     text: Ba-Turing is a better Turing editor, built on Electron.js and node.js.
     img:
       src: /ba-turing/screenshot.png
-      alt: Screenshot of ba-turing Editor
+      alt: Screenshot of ba-turing Editor.
     links:
     - href: https://github.com/balaji-venkatesh/ba-turing
       text: Source
       icon: github
     - href: /ba-turing
       text: Site
-      icon: box-arrow-up-right
+      icon: link
   - title: Skule™ Website
     text: Skule.ca is the website for the University of Toronto Engineering Society and the engineering student body, Skule™.
     img:
       src: /assets/skule.jpeg
-      alt: Screenshot of skule.ca
+      alt: Screenshot of https://skule.ca.
     links:
     - href: https://github.com/skule/skule.ca
       text: Source
       icon: github
-    - href: https://skule.ca/
+    - href: https://skule.ca
       text: Site
-      icon: box-arrow-up-right
-  - title: ECE532 FPGA Robot
-    text: Our ECE532 project was an autonomous search and rescue robot using FPGA-based audio localization.
+      icon: link
+  - title: FPGA Search & Rescue Robot
+    text: Digital Systems Design (ECE532) is a course at the University of Toronto where teams of four students build complex FPGA-based systems. Our project was an autonomous search and rescue robot with audio localisation.
     img:
       src: /ece532-project/selfie.png
       alt: Image of robot and video stream.
@@ -38,11 +38,11 @@ projects:
     - href: /ece532-project/doc/Final Presentation.pdf
       text: Slides
       icon: file-earmark-pdf-fill
-  - title: ECE352 Vector Extension
-    text: Our ECE352 project was a SIMD (vector) extension for a multicycle processor.
+  - title: Vector Processor
+    text: Computer Organisation (ECE352) is a course at the University of Toronto. Our final project was a single instruction multiple data (SIMD/vector) extension for a multicycle processor.
     img:
       src: /ece352-project/datra.PNG
-      alt: Diagram of processor.
+      alt: Diagram of vector processor.
     links:
     - href: https://github.com/balaji-venkatesh/ece352-project
       text: Source
@@ -56,6 +56,18 @@ projects:
     - href: https://github.com/balaji-venkatesh/snek
       text: Source
       icon: github
+  - title: balajiv.ca
+    text: balajiv.ca is my personal website, which is what you're looking at right now! It's hosted on Github Pages, and uses the Jekyll static site generator to compile a static website from the source HTML, Markdown, and Liquid. I wrote a custom, responsive theme using the Bootstrap frontend toolkit.
+    img: 
+      src: /assets/balajiv.ca.jpeg
+      alt: Screenshot of https://balajiv.ca.
+    links:
+    - href: https://github.com/balaji-venkatesh/balaji-venkatesh.github.io
+      text: Source
+      icon: github
+    - href: https://balajiv.ca
+      text: Site
+      icon: link
 ---
 
 <div class=" row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-3 justify-content-center">
