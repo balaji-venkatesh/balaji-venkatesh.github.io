@@ -12,21 +12,27 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 
 ### Work Experience
 
+##### Full Stack Developer <small> [Next.js, React, MongoDB] </small>
+###### GridS2 | Toronto, Canada | Jan 2025 - Present
+- Creating control room analysis software for regional electric utilities
+- Building a production grade system to facilitate demand-response programs
+- Ensuring data security and integrity
+- Integrating with enterprise and high-security networks
+
 ##### Belief Propagation Accelerator, UG Thesis Research Student <small> [C, HLS, Verilog, AWS FPGA] </small>
 ###### University of Toronto | Toronto, Canada | Sep 2023 - Apr 2024
-- Building a hardware accelerator for the residual belief propagation algorithm on AWS FPGA
-- Learning task-based speculative parallelism
-- Implementing hardware designs with HLS and Verilog and programming with C for RISC-V
-- Migrating Chronos scripting from Bash to Tcl
+- Built a hardware accelerator for the residual belief propagation algorithm on AWS FPGA
+- Learned task-based speculative parallelism
+- Implemented hardware designs with HLS and Verilog and programming with C for RISC-V
+- Migrated Chronos scripting from Bash to Tcl
 
 ##### Multi-FPGA Matrix Multiplier, UG Summer Research Assistant  <small> [C, HLS, Verilog, AMD FPGA] </small>
 ###### University of Toronto | Toronto, Canada | May 2023 - Aug 2023
 - Conceptualized hardware accelerator for very large matrix processing over networked FPGAs
-- Designed accelerator cores in Verilog and HLS
+- Designed accelerator cores in Verilog and HLS, and then programmed application software in C
 - Tested easyDMA direct memory interface using AXI steams
-- Programmed application software in C
 
-##### Altium Education, Platform Development Intern <small> [Web Development] </small>
+##### Altium Education, Platform Developer <small> [Web Development, Node.js] </small>
 ###### Altium Limited | La Jolla, California and Remote | Mar 2021 - Mar 2023
 - Developed web platforms and curriculum for courses about printed circuit board design
 - Integrated services together with open-source libraries
@@ -58,7 +64,7 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 - Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, *Sep 2021*
 
 ##### Implementing and Administering Cisco Solutions
-###### Cisco U | Remote | Nov 2024 - Present
+###### Cisco U | Remote | Nov 2024 - Jan 2025
 - Install, operate, configure, and verify basic IPv4 and IPv6 networks
 - Configure network components, such as switches, routers, and wireless LAN controllers
 - Manage network devices and identify basic security threats
@@ -86,10 +92,3 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 
 <hr>
 <a href="https://www.linkedin.com/in/balajivca/" class="mb-1 btn btn-lg btn-primary"><i class="bi bi-linkedin"></i> balajivca </a>
-
-<style>
-h5, h6{
-	margin-bottom: 0.5rem !important;
-  font-weight: 300 !important;
-}
-</style>
