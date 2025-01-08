@@ -36,7 +36,7 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 
 #### Platform Developer, Altium Limited
 ###### San Diego, USA | Mar 2021 - Mar 2023 | Web Development, Node.js
-- Developed web platforms and curriculum for courses about printed circuit board design
+- Developed [web platforms and curriculum for courses about printed circuit board design](https://education.altium.com/)
 - Integrated services together with open-source libraries
 - Worked with an international team of developers, designers, and teachers
 - Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
