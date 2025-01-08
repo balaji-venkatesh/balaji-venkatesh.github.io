@@ -19,14 +19,16 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 - Ensuring data security and integrity
 - Integrating with enterprise and high-security networks
 
-##### Belief Propagation Accelerator, UG Thesis Research Student <small> [C, HLS, Verilog, AWS FPGA] </small>
+##### Undergraduate Research Assistant <small> [C, HLS, Verilog, AWS FPGA] </small>
 ###### University of Toronto | Toronto, Canada | Sep 2023 - Apr 2024
+Project: Belief Propagation Accelerator
+Supervisor: [Professor Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)
 - Built a hardware accelerator for the residual belief propagation algorithm on AWS FPGA
 - Learned task-based speculative parallelism
 - Implemented hardware designs with HLS and Verilog and programming with C for RISC-V
 - Migrated Chronos scripting from Bash to Tcl
 
-##### Multi-FPGA Matrix Multiplier, UG Summer Research Assistant  <small> [C, HLS, Verilog, AMD FPGA] </small>
+##### Multi-FPGA Matrix Multiplier, Undergraduate Research Assistant <small> [C, HLS, Verilog, AMD FPGA] </small>
 ###### University of Toronto | Toronto, Canada | May 2023 - Aug 2023
 - Conceptualized hardware accelerator for very large matrix processing over networked FPGAs
 - Designed accelerator cores in Verilog and HLS, and then programmed application software in C
@@ -39,7 +41,7 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 - Worked with an international team of developers, designers, and teachers
 - Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
 
-##### Doppler Radar Simulator Improvements, UG Summer Research Assistant  <small> [MATLAB, Python] </small>
+##### Doppler Radar Simulator Improvements, Undergraduate Research Assistant <small> [MATLAB, Python] </small>
 ###### University of Toronto | Toronto, Canada | May 2021 - Sep 2021
 - Improved a simulator for training a doppler radar neural network in MATLAB
 - Collaborated with an international research team based in Canada and the UK
