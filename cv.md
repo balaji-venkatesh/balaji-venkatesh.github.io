@@ -21,15 +21,17 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 
 ##### Undergraduate Research Assistant <small> [C, HLS, Verilog, AWS FPGA] </small>
 ###### University of Toronto | Toronto, Canada | Sep 2023 - Apr 2024
-Project: Belief Propagation Accelerator
-Supervisor: [Professor Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)
+- Project: Belief Propagation Accelerator
+- Supervisor: [Professor Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)
 - Built a hardware accelerator for the residual belief propagation algorithm on AWS FPGA
 - Learned task-based speculative parallelism
 - Implemented hardware designs with HLS and Verilog and programming with C for RISC-V
 - Migrated Chronos scripting from Bash to Tcl
 
-##### Multi-FPGA Matrix Multiplier, Undergraduate Research Assistant <small> [C, HLS, Verilog, AMD FPGA] </small>
+##### Undergraduate Research Assistant <small> [C, HLS, Verilog, AMD FPGA] </small>
 ###### University of Toronto | Toronto, Canada | May 2023 - Aug 2023
+- Project: Multi-FPGA Matrix Multiplier
+- Supervisor: [Professor Paul Chow](https://www.eecg.utoronto.ca/~pc/)
 - Conceptualized hardware accelerator for very large matrix processing over networked FPGAs
 - Designed accelerator cores in Verilog and HLS, and then programmed application software in C
 - Tested easyDMA direct memory interface using AXI steams
