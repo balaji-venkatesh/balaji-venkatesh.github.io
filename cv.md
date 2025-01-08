@@ -35,7 +35,7 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 - Tested easyDMA direct memory interface using AXI steams
 
 ##### Platform Developer, Altium Limited
-###### La Jolla, California | Mar 2021 - Mar 2023 | Web Development, Node.js
+###### San Diego, USA | Mar 2021 - Mar 2023 | Web Development, Node.js
 - Developed web platforms and curriculum for courses about printed circuit board design
 - Integrated services together with open-source libraries
 - Worked with an international team of developers, designers, and teachers
