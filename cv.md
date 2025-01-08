@@ -92,7 +92,3 @@ navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn bt
 - Conceptualized a circuit board for space rover peripheral power control
 - Implemented the neopixel protocol to control LEDs
 - Designed the PCB using Altium Designer
-
-<hr>
-<a href="https://www.linkedin.com/in/balajivca/" class="mb-1 btn btn-lg btn-primary"><i class="bi bi-linkedin"></i> balajivca </a>
-<a href="/assets/bv-resume.pdf" class="mb-1 btn btn-lg btn-primary"><i class="bi-file-earmark-pdf-fill"></i> Download Resume </a>

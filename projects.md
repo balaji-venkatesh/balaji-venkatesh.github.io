@@ -91,6 +91,3 @@ projects:
   </div>
   {% endfor %}
 </div>
-
-<hr>
-<a href="https://github.com/balaji-venkatesh/" class="mb-1 btn btn-lg btn-primary"><i class="bi bi-github"></i> balaji-venkatesh </a>
