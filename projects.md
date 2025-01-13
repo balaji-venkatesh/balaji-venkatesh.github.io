@@ -1,5 +1,6 @@
 ---
 title: Projects
+permalink: projects
 
 projects:
   - title: Ba-Turing IDE

@@ -1,5 +1,6 @@
 ---
 title: Publications
+permalink: publications
 ---
 
 #### Accelerating Belief Propagation with Task-Based Hardware Parallelism
