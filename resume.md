@@ -1,7 +1,9 @@
 ---
-title: CV
-navbarextra: <a href="/assets/bv-resume.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-file-earmark-pdf-fill"></i> <i class="bi-download"></i></a>
+title: Resume
+order: 2
 ---
+
+<a href="/assets/bv-resume.pdf" type="button" class="me-auto btn btn-primary"><i class="bi-file-earmark-pdf-fill"></i> Download as a PDF</a>
 
 ## Skills
 
