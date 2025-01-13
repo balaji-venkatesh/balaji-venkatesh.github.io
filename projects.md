@@ -2,20 +2,20 @@
 title: Projects
 
 projects:
-  - title: Ba-Turing
-    text: Ba-Turing is a better Turing editor, built on Electron.js and node.js.
+  - title: Ba-Turing IDE
+    text: Ba-Turing is an IDE for the Turing programming language. I built it with Electron.js and node.js.
     img:
-      src: /ba-turing/screenshot.png
+      src: https://balajiv.ca/ba-turing/screenshot.png
       alt: Screenshot of ba-turing Editor.
     links:
     - href: https://github.com/balaji-venkatesh/ba-turing
       text: Source
       icon: github
-    - href: /ba-turing
+    - href: https://balajiv.ca/ba-turing
       text: Site
       icon: link
   - title: Skule™ Website
-    text: Skule.ca is the website for the University of Toronto Engineering Society and the engineering student body, Skule™.
+    text: Skule.ca is the website for the University of Toronto Engineering Society and the engineering student body, Skule™. It's hosted on Github Pages, and uses the Jekyll static site generator to compile a static website from the source HTML, Markdown, and Liquid. I wrote a responsive custom theme using the Bootstrap frontend toolkit.
     img:
       src: /assets/skule.jpeg
       alt: Screenshot of https://skule.ca.
@@ -26,38 +26,38 @@ projects:
     - href: https://skule.ca
       text: Site
       icon: link
-  - title: FPGA Search & Rescue Robot
-    text: Digital Systems Design (ECE532) is a course at the University of Toronto where teams of four students build complex FPGA-based systems. Our project was an autonomous search and rescue robot with audio localisation.
+  - title: FPGA Audio-Localised Search & Rescue Robot
+    text: Digital Systems Design (ECE532) is a course at the University of Toronto where teams of four students build complex FPGA-based systems. Our project was an autonomous search and rescue robot with audio localisation. My main contribution to the project was the camera stream from the robot to the base station, in which I created my own hardware implementation of an Ethernet stack and H.262 MPEG compression algorithm. 
     img:
-      src: /ece532-project/selfie.png
+      src: assets/ece532.png
       alt: Image of robot and video stream.
     links:
     - href: https://github.com/balaji-venkatesh/ece532-project
       text: Source
       icon: github
-    - href: /ece532-project/doc/Final Presentation.pdf
+    - href: https://balajiv.ca/ece532-project/doc/Final Presentation.pdf
       text: Slides
       icon: file-earmark-pdf-fill
-  - title: Vector Processor
+  - title: Vector Processor Extension
     text: Computer Organisation (ECE352) is a course at the University of Toronto. Our final project was a single instruction multiple data (SIMD/vector) extension for a multicycle processor.
     img:
-      src: /ece352-project/datra.PNG
+      src: https://balajiv.ca/ece352-project/datra.PNG
       alt: Diagram of vector processor.
     links:
     - href: https://github.com/balaji-venkatesh/ece352-project
       text: Source
       icon: github
   - title: Snek
-    text: Snek is a pixel graphics game built in Java 8. It's Snake, but with 2 Snakes! It includes an underlying from-scratch game engine with sprites, fonts, timers, and customizable keyboard controls.
+    text: Snek is a pixel graphics game built in Java 8. It's Snake, but with 2 Snakes! I wrote my own underlying pixel graphics game engine with sprites, fonts, timers, and customizable keyboard controls.
     img:
-      src: /snek/screenshot.png
+      src: https://balajiv.ca/snek/screenshot.png
       alt: Screenshot of snek game.
     links:
     - href: https://github.com/balaji-venkatesh/snek
       text: Source
       icon: github
-  - title: balajiv.ca
-    text: balajiv.ca is my personal website, which is what you're looking at right now! It's hosted on Github Pages, and uses the Jekyll static site generator to compile a static website from the source HTML, Markdown, and Liquid. I wrote a custom, responsive theme using the Bootstrap frontend toolkit.
+  - title: My Website
+    text: balajiv.ca is my personal website. You're looking at it right now! It's hosted on Github Pages, and uses the Jekyll static site generator to compile a static website from the source HTML, Markdown, and Liquid. I wrote a responsive custom theme using the Bootstrap frontend toolkit.
     img: 
       src: /assets/balajiv.ca.jpeg
       alt: Screenshot of https://balajiv.ca.
@@ -70,24 +70,23 @@ projects:
       icon: link
 ---
 
-<div class=" row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-3 row-cols-xxl-4 g-3 justify-content-center">
-  {% for project in page.projects %}
-  <div class="col" style="max-width:300px !important">
-    <div class="card h-100">
-      <img src="{{project.img.src}}" height="200px" class="placeholder card-img-top" alt="{{project.img.alt}}">
-      <div class="card-body">
-        <h5 class="card-title">{{project.title}}</h5>
-        <p class="card-text">{{project.text}}</p>
+{% for project in page.projects %}
+  <section class="row gy-2 gx-4 pb-5">
+      <div class="col-12 col-md-4">
+        <img src="{{project.img.src}}" class="w-100 placeholder rounded border" alt="{{project.img.alt}}">
       </div>
-      <div class="card-footer">
+      <div class="col-12 col-md-8 d-flex flex-column">
+        <h4>{{project.title}}</h4>
+        <p>{{project.text}}</p>
+        <div class="flex-grow-1"></div>
+        <div>
         {% for link in project.links %}
-        <a href="{{link.href}}" class="btn btn-primary">
-          {{link.text}}
-          {% if link.icon %}<i class="bi bi-{{link.icon}}"></i>{% endif %}
-        </a>
-        {% endfor %}
+            <a href="{{link.href}}" class="btn btn-primary">
+              {% if link.icon %} <i class="bi bi-{{link.icon}}"></i> {% endif %}
+              {{link.text}}
+            </a>
+          {% endfor %}
+        </div>
       </div>
-    </div>
-  </div>
-  {% endfor %}
-</div>
+  </section>
+{% endfor %}
