@@ -15,7 +15,7 @@ order: 2
 
 ## Work Experience
 
-#### Full Stack Developer, GridS2
+#### Software Developer, GridS2
 ###### Toronto, Canada | Jan 2025 - Present | Next.js, React, MongoDB, Python
 - Creating control room analysis software for regional electric utilities
 - Building a production grade system to facilitate demand-response programs
