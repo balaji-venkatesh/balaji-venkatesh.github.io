@@ -12,6 +12,8 @@ This project is the convergence of two directions, the first being innovations i
 <a href="https://github.com/balaji-venkatesh/chronos_rbp_hls" class="btn btn-primary mb-2"> <i class="bi bi-github"></i> Source</a>
 <a href="/assets/bv-basc-thesis.pdf" class="btn btn-primary mb-2"> <i class="bi bi-file-earmark-pdf-fill"></i> Thesis</a>
 
+---
+
 #### Automation of Thermal Energy Storage for Homes using Artificial Neural Networks
 ###### IEEE Canadian Conference on Electrical and Computer Engineering | London, Canada | Sep 2020
 
@@ -19,6 +21,8 @@ About 60% of the energy consumed by homes in North America is for air conditioni
 DOI: 10.1109/CCECE47787.2020.9255680
 
 <a href="https://doi.org/10.1109/CCECE47787.2020.9255680" class="btn btn-primary mb-2"> <i class="bi bi-link"></i> IEEE Xplore</a>
+
+---
 
 #### Thermal Energy Storage for Homes
 ###### 2018 IEEE International Conference on Smart Energy Grid Engineering | Oshawa, Canada | Aug 2018

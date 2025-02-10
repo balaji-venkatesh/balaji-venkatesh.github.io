@@ -72,22 +72,23 @@ projects:
 ---
 
 {% for project in page.projects %}
-  <section class="row gy-2 gx-4 pb-5">
-      <div class="col-12 col-md-4">
-        <img src="{{project.img.src}}" class="w-100 placeholder rounded border" alt="{{project.img.alt}}">
-      </div>
-      <div class="col-12 col-md-8 d-flex flex-column">
-        <h4>{{project.title}}</h4>
-        <p>{{project.text}}</p>
-        <div class="flex-grow-1"></div>
-        <div>
-        {% for link in project.links %}
-            <a href="{{link.href}}" class="btn btn-primary">
-              {% if link.icon %} <i class="bi bi-{{link.icon}}"></i> {% endif %}
-              {{link.text}}
-            </a>
-          {% endfor %}
-        </div>
-      </div>
-  </section>
+
+#### {{project.title}}
+{{project.text}}
+
+<img src="{{project.img.src}}" class="rounded border h-100" style="max-height:15rem; max-width:80vw" alt="{{project.img.alt}}">
+
+<div class="mb-4">
+{% for link in project.links %}
+  <a href="{{link.href}}" class="btn btn-primary">
+    {% if link.icon %} <i class="bi bi-{{link.icon}}"></i> {% endif %}
+    {{link.text}}
+  </a>
+{% endfor %}
+</div>
+
+{% unless forloop.last %} 
+---
+{% endunless %}
+
 {% endfor %}
