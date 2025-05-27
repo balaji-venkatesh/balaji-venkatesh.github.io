@@ -11,6 +11,7 @@ This project is the convergence of two directions, the first being innovations i
 
 <a href="https://github.com/balaji-venkatesh/chronos_rbp_hls" class="btn btn-primary mb-2"> <i class="bi bi-github"></i> Source</a>
 <a href="/assets/bv-basc-thesis.pdf" class="btn btn-primary mb-2"> <i class="bi bi-file-earmark-pdf-fill"></i> Thesis</a>
+<a href="/assets/ccece2025.pptx" class="btn btn-primary mb-2"> <i class="bi bi-filetype-pptx"></i> Presentation</a>
 
 ---
 
