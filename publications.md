@@ -4,19 +4,19 @@ permalink: publications
 ---
 
 #### Accelerating Belief Propagation with Task-Based Hardware Parallelism
-
+###### 2025 IEEE Canadian Conference on Electrical and Computer Engineering | Vancouver, Canada | May 2025
 ###### BASc Thesis, Supervised by [Professor Mark Jeffrey](https://www.eecg.utoronto.ca/~mcj/) | University of Toronto | Toronto, Canada | Apr 2024
 
 This project is the convergence of two directions, the first being innovations in residual belief propagation. Belief propagation is an algorithm used to compute statistical inferences on graphs called probabilistic graphical models. Applications include stereo image depth estimation, workplace safety, and healthcare patient experience. The second direction is hardware support for priority-ordered algorithms through task-based parallelism. This work implements belief propagation on an FPGA-based speculative parallel accelerator and demonstrates the possibility of increased performance. <br>
 
 <a href="https://github.com/balaji-venkatesh/chronos_rbp_hls" class="btn btn-primary mb-2"> <i class="bi bi-github"></i> Source</a>
 <a href="/assets/bv-basc-thesis.pdf" class="btn btn-primary mb-2"> <i class="bi bi-file-earmark-pdf-fill"></i> Thesis</a>
-<a href="/assets/ccece2025.pptx" class="btn btn-primary mb-2"> <i class="bi bi-filetype-pptx"></i> Presentation</a>
+<a href="/assets/ccece2025.pdf" class="btn btn-primary mb-2"> <i class="bi bi-file-earmark-pdf-fill"></i> Slides</a>
 
 ---
 
 #### Automation of Thermal Energy Storage for Homes using Artificial Neural Networks
-###### IEEE Canadian Conference on Electrical and Computer Engineering | London, Canada | Sep 2020
+###### 2020 IEEE Canadian Conference on Electrical and Computer Engineering | London, Canada | Sep 2020
 
 About 60% of the energy consumed by homes in North America is for air conditioning. Residential solar energy is now more cost effective; however, solar energy availability and air conditioning needs are mismatched in time, necessitating energy storage. In previous works, storage of energy in thermal air mass of homes has been proposed, and in this work, an artificial-neural-network-based thermostat is proposed. A method to train the model for an average home is demonstrated with an example and is shown to be effective. <br>
 DOI: 10.1109/CCECE47787.2020.9255680
