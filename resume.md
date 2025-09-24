@@ -18,6 +18,34 @@ order: 2
 - Architected a modern, portable, and functional tech stack
 - Delivered a system to collect data for a demand-response program 
 
+##### Platform Developer, Altium Limited
+###### San Diego, USA | Mar 2021 - Mar 2023
+- Developed [web platforms and curriculum for courses about printed circuit board design](https://education.altium.com/)
+- Integrated services together with open-source libraries
+- Worked with an international team of developers, designers, and teachers
+- Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
+
+---
+
+#### Education
+
+##### Master of Applied Science in Electrical and Computer Engineering, University of Waterloo
+###### Waterloo, Ontario | Sep 2025 - Present
+- Supervised by [Professor Andrew Boutros](https://andrewboutros.github.io/)
+
+##### Implementing and Administering Cisco Solutions, Cisco U
+###### Remote | Nov 2024 - Jan 2025
+- Install, operate, configure, and verify basic IPv4 and IPv6 networks
+- Configure network components, such as switches, routers, and wireless LAN controllers
+- Manage network devices and identify basic security threats
+- Describe and define network programmability, automation, and software-defined networking
+
+##### Bachelor of Applied Science in Engineering Science with Honours, University of Toronto
+###### Toronto, Canada | Sep 2020 - Apr 2024
+- Major in Electrical & Computer Engineering
+- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
+- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, Sep 2021
+
 ##### Undergraduate Research Assistant, University of Toronto
 ###### Toronto, Canada | Sep 2023 - Apr 2024
 - Supervised by [Professor Mark C. Jeffrey](https://www.eecg.utoronto.ca/~mcj/)
@@ -33,45 +61,12 @@ order: 2
 - Designed accelerator cores in Verilog and HLS, and then programmed application software in C
 - Tested easyDMA direct memory interface using AXI steams
 
-##### Platform Developer, Altium Limited
-###### San Diego, USA | Mar 2021 - Mar 2023
-- Developed [web platforms and curriculum for courses about printed circuit board design](https://education.altium.com/)
-- Integrated services together with open-source libraries
-- Worked with an international team of developers, designers, and teachers
-- Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
-
 ##### Undergraduate Research Assistant, University of Toronto
 ###### Toronto, Canada | May 2021 - Sep 2021
 - Supervised by [Professor Raviraj Adve](https://www.comm.utoronto.ca/~rsadve/)
 - Improved a simulator for training a doppler radar neural network in MATLAB
 - Collaborated with an international research team based in Canada and the UK
 - Wrote image processing scripts in Python
-
----
-
-#### Education
-
-##### Bachelor of Applied Science in Engineering Science with Honours, University of Toronto
-###### Toronto, Canada | Sep 2020 - Apr 2024
-- Major in Electrical & Computer Engineering
-- Relevant Courses: 
-  - Computer Architecture (C, Benchmarking)
-  - Computer Systems Programming  (C, C++)
-  - Internetworking
-  - Computer Networks I & II
-  - Digital and Computer Systems (Intel FPGA, Assembly)
-  - Computer Organization (Assembly, Verilog)
-- Cumulative GPA of 3.5/4
-- Fourth year GPA of 3.9/4
-- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
-- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, Sep 2021
-
-##### Implementing and Administering Cisco Solutions, Cisco U
-###### Remote | Nov 2024 - Jan 2025
-- Install, operate, configure, and verify basic IPv4 and IPv6 networks
-- Configure network components, such as switches, routers, and wireless LAN controllers
-- Manage network devices and identify basic security threats
-- Describe and define network programmability, automation, and software-defined networking
 
 ---
 
