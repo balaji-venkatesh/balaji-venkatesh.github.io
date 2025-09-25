@@ -71,6 +71,8 @@ projects:
       icon: link
 ---
 
+# Projects
+
 {% for project in page.projects %}
 
 #### {{project.title}}

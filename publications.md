@@ -3,6 +3,8 @@ title: Publications
 permalink: publications
 ---
 
+# Publications
+
 #### Accelerating Belief Propagation with Task-Based Hardware Parallelism
 ###### 2025 IEEE Canadian Conference on Electrical and Computer Engineering | Vancouver, Canada | May 2025
 ###### BASc Thesis, Supervised by [Professor Mark Jeffrey](https://www.eecg.utoronto.ca/~mcj/) | University of Toronto | Toronto, Canada | Apr 2024

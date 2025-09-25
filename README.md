@@ -1,11 +1,14 @@
 ---
-title: Home
-order: 1
+title: Balaji Venkatesh
 permalink: /
 ---
 
-#### Hello!
+# Balaji Venkatesh
 
-My name is Balaji Venkatesh, and I'm a Canadian computer engineer. My interests range across hardware, software, and networks. I hold an Honours Bachelor of Applied Science in Engineering Science from the University of Toronto, specializing in Computer Engineering.  
+I am a Software Analyst at Hitachi Rail, where I develop software for automated rail projects. 
+
+I am also a part-time MASc student in the Electrical and Computer Engineering Department at the University of Waterloo, under the supervision of [Professor Andrew Boutros](https://andrewboutros.github.io/). My research interests are in FPGA design and computer networks.
+
+Before joining the University of Waterloo, I received my Honours Bachelor of Applied Science in Engineering Science from the University of Toronto, specializing in Computer Engineering. 
 
 <img class="rounded border" src="/assets/Balaji Venkatesh.jpeg" style="width:18rem; height:15rem;" alt="Photo of Balaji Venkatesh"/>
