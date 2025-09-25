@@ -12,28 +12,22 @@
 </head>
 
 
-<body>
+<body class="row">
     <script src="/assets/colourMode.js"></script>
-    <nav class="navbar navbar-expand container pb-0">
-        <ul class="navbar-nav me-auto">
-             <li class="nav-item"><a class="nav-link" href="/">Home</a></li>
-	     <li class="nav-item"><a class="nav-link" href="/resume">Resume</a></li>
-	     <li class="nav-item"><a class="nav-link" href="/projects">Projects</a></li>
-	     <li class="nav-item"><a class="nav-link" href="/publications">Publications</a></li>
-        </ul>
-	<div class="btn-group">
+    <nav class="col-3-md">
+        <a href="/">Home</a>
+	<a href="/resume">Resume</a>
+	<a href="/projects">Project</a>
+	<a href="/publications">Publications</a>
         <a href="https://www.linkedin.com/in/balajivca/" class="btn btn-link">
             <i class="bi bi-linkedin"></i> LinkedIn </a>
         <a href="https://github.com/balaji-venkatesh/" class="btn btn-link">
             <i class="bi bi-github"></i> GitHub </a>
         <a href="https://scholar.google.com/citations?user=5_CuemEAAAAJ" class="mb-1 btn btn-link">
             <i class="bi bi-mortarboard-fill"></i> Google Scholar </a>
-	</div>
     </nav>
-    <div class="container">
-        <hr>
+    <div class="col-6-md">
         {{ content }}
-        <hr>
     </div>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
         integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
