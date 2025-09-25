@@ -89,8 +89,4 @@ projects:
 {% endfor %}
 </div>
 
-{% unless forloop.last %} 
----
-{% endunless %}
-
 {% endfor %}

@@ -5,7 +5,25 @@ permalink: resume
 
 # Resume
 
-#### Work Experience
+#### Education
+
+##### Master of Applied Science in Electrical and Computer Engineering, University of Waterloo
+###### Waterloo, Ontario | Sep 2025 - Present
+- Supervised by [Professor Andrew Boutros](https://andrewboutros.github.io/)
+
+##### Implementing and Administering Cisco Solutions, Cisco U
+###### Remote | Nov 2024 - Jan 2025
+- Install, operate, configure, and verify basic IPv4 and IPv6 networks
+- Configure network components, manage network devices and identify basic security threats
+- Describe and define network programmability, automation, and software-defined networking
+
+##### Bachelor of Applied Science in Engineering Science with Honours, University of Toronto
+###### Toronto, Canada | Sep 2020 - Apr 2024
+- Major in Electrical & Computer Engineering
+- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
+- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, Sep 2021
+
+#### Industry Experience
 
 ##### Software Analyst, Hitachi Rail Canada
 ###### Toronto, Canada | Mar 2025 - Present
@@ -26,26 +44,7 @@ permalink: resume
 - Worked with an international team of developers, designers, and teachers
 - Presented to over 200 students and industry leaders at the IPC APEX Expo, *Jan 2022, Jan 2023*
 
----
-
-#### Education
-
-##### Master of Applied Science in Electrical and Computer Engineering, University of Waterloo
-###### Waterloo, Ontario | Sep 2025 - Present
-- Supervised by [Professor Andrew Boutros](https://andrewboutros.github.io/)
-
-##### Implementing and Administering Cisco Solutions, Cisco U
-###### Remote | Nov 2024 - Jan 2025
-- Install, operate, configure, and verify basic IPv4 and IPv6 networks
-- Configure network components, such as switches, routers, and wireless LAN controllers
-- Manage network devices and identify basic security threats
-- Describe and define network programmability, automation, and software-defined networking
-
-##### Bachelor of Applied Science in Engineering Science with Honours, University of Toronto
-###### Toronto, Canada | Sep 2020 - Apr 2024
-- Major in Electrical & Computer Engineering
-- Dean’s Honour List, 2020F, 2021W, 2021F, 2022W, 2023F, 2024W
-- Undergraduate Summer Research Program Dean’s Pivot Fellowship Award, Sep 2021
+#### Research Experience
 
 ##### Undergraduate Research Assistant, University of Toronto
 ###### Toronto, Canada | Sep 2023 - Apr 2024
@@ -68,8 +67,6 @@ permalink: resume
 - Improved a simulator for training a doppler radar neural network in MATLAB
 - Collaborated with an international research team based in Canada and the UK
 - Wrote image processing scripts in Python
-
----
 
 #### Volunteer Experience
 
