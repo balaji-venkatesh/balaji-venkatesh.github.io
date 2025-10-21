@@ -11,4 +11,4 @@ I am also a part-time MASc student in the Electrical and Computer Engineering De
 
 Before joining the University of Waterloo, I received my Honours Bachelor of Applied Science in Engineering Science from the University of Toronto, specializing in Computer Engineering. 
 
-<img class="rounded border" src="/assets/Balaji Venkatesh.jpeg" style="width:18rem; height:15rem;" alt="Photo of Balaji Venkatesh"/>
+<img class="m-auto rounded border" src="/assets/Balaji Venkatesh.jpeg" style="width:18rem; height:15rem;" alt="Photo of Balaji Venkatesh"/>
