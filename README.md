@@ -6,7 +6,7 @@ layout: home
 
 Hi there! My name is Balaji Venkatesh.
 
-<img style="margin:auto; display:block; width:18rem; height:15rem; border-radius:8px;" src="/assets/Balaji Venkatesh.jpeg" alt="Photo of Balaji Venkatesh"/>
+<img style="margin:auto; display:block; width:18rem; height:15rem; border-radius:8px;" fetchpriority="high" src="/assets/Balaji Venkatesh.jpeg" alt="Photo of Balaji Venkatesh against a brick background."/>
 
 I work as a Software Analyst at Hitachi Rail, where I develop software for automated rail projects. 
 
