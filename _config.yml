@@ -10,7 +10,7 @@ author:
 # The `>` after `description:` means to ignore line-breaks until next key. If
 #   you wish to omit the line-break after the end of text, use `>-` instead.
 description: >
-  Hi there! My name is Balaji Venkatesh. I am a Canadian computer engineer based in Toronto, Ontario. 
+  Hi there! My name is Balaji Venkatesh, and I'm a Canadian computer engineer based in Toronto, Ontario. 
 
 
 # Build settings
