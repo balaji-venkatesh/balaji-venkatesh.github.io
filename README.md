@@ -4,7 +4,7 @@ permalink: /
 layout: home
 ---
 
-Hi there! My name is Balaji Venkatesh, and I'm a Canadian computer engineer based in Toronto, Ontario. I work as a Software Analyst at Hitachi Rail Canada, where I develop software for automated rail projects. 
+Hi there! My name is Balaji Venkatesh, and I'm a Canadian computer engineer based in Toronto. I work as a Software Analyst at Hitachi Rail Canada, where I develop software for automated rail projects. 
 
 Additionally, I am a part-time Masters in Applied Science (MASc) student in the Electrical and Computer Engineering Department at the University of Waterloo, under the supervision of [Dr. Andrew Boutros](https://andrewboutros.github.io/). My research interests are in the intersection of FPGA architecture and machine learning.
 
