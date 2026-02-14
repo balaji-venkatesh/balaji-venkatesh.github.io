@@ -10,11 +10,17 @@ layout: page
 
 This project is the convergence of two directions, the first being innovations in residual belief propagation. Belief propagation is an algorithm used to compute statistical inferences on graphs called probabilistic graphical models. Applications include stereo image depth estimation, workplace safety, and healthcare patient experience. The second direction is hardware support for priority-ordered algorithms through task-based parallelism. This work implements belief propagation on an FPGA-based speculative parallel accelerator and demonstrates the possibility of increased performance. <br>
 
-[View source code on GitHub](https://github.com/balaji-venkatesh/chronos_rbp_hls)
+DOI: 10.1109/CCECE64018.2025.11364448
 
-[Download thesis PDF](./assets/bv-basc-thesis.pdf)
+[IEEE Xplore Listing](https://doi.org/10.1109/CCECE64018.2025.11364448)
 
-[Download presentation slides PDF](./assets/ccece2025.pdf)
+[CCECE 2025 Paper PDF](./assets/ccece2025-paper.pdf)
+
+[CCECE 2025 Slides PDF](./assets/ccece2025.pdf)
+
+[UofT BASc Thesis PDF](./assets/bv-basc-thesis.pdf)
+
+[Source Code on GitHub](https://github.com/balaji-venkatesh/chronos_rbp_hls)
 
 ## Automation of Thermal Energy Storage for Homes using Artificial Neural Networks
 2020 IEEE Canadian Conference on Electrical and Computer Engineering | London, Canada | Sep 2020
@@ -23,7 +29,7 @@ About 60% of the energy consumed by homes in North America is for air conditioni
 
 DOI: 10.1109/CCECE47787.2020.9255680
 
-[View on IEEE Xplore](https://doi.org/10.1109/CCECE47787.2020.9255680)
+[IEEE Xplore Listing](https://doi.org/10.1109/CCECE47787.2020.9255680)
 
 ## Thermal Energy Storage for Homes
 2018 IEEE International Conference on Smart Energy Grid Engineering | Oshawa, Canada | Aug 2018
@@ -32,4 +38,8 @@ Conventional solar power solutions for homes convert solar energy using photovol
 
 DOI: 10.1109/SEGE.2018.8499511
 
-[View on IEEE Xplore](https://doi.org/10.1109/SEGE.2018.8499511) 
+[IEEE Xplore Listing](https://doi.org/10.1109/SEGE.2018.8499511) 
+
+[SEGE 2018 Slides PDF](./assets/sege2018-slides.pdf)
+
+[YRSTF 2017 Poster](./assets/yrstf2017-poster.pdf)
