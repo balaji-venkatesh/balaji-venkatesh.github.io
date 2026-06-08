@@ -5,6 +5,7 @@ layout: page
 ---
 
 ## Accelerating Belief Propagation with Task-Based Hardware Parallelism
+Balaji Venkatesh; Leo Han; Mark Jeffrey
 2025 IEEE Canadian Conference on Electrical and Computer Engineering | Vancouver, Canada | May 2025
 2024 Engineering Science Thesis at the University of Toronto | Toronto, Canada | Apr 2024
 
@@ -23,6 +24,7 @@ DOI: 10.1109/CCECE64018.2025.11364448
 [Source Code on GitHub](https://github.com/balaji-venkatesh/chronos_rbp_hls)
 
 ## Automation of Thermal Energy Storage for Homes using Artificial Neural Networks
+Balaji Venkatesh
 2020 IEEE Canadian Conference on Electrical and Computer Engineering | London, Canada | Sep 2020
 
 About 60% of the energy consumed by homes in North America is for air conditioning. Residential solar energy is now more cost effective; however, solar energy availability and air conditioning needs are mismatched in time, necessitating energy storage. In previous works, storage of energy in thermal air mass of homes has been proposed, and in this work, an artificial-neural-network-based thermostat is proposed. A method to train the model for an average home is demonstrated with an example and is shown to be effective. <br>
@@ -32,6 +34,7 @@ DOI: 10.1109/CCECE47787.2020.9255680
 [IEEE Xplore Listing](https://doi.org/10.1109/CCECE47787.2020.9255680)
 
 ## Thermal Energy Storage for Homes
+Balaji Venkatesh
 2018 IEEE International Conference on Smart Energy Grid Engineering | Oshawa, Canada | Aug 2018
 
 Conventional solar power solutions for homes convert solar energy using photovoltaic (PV) panels and then store the energy in batteries. However, batteries are expensive and environmentally unfriendly. Thermal Energy Storage for Homes (TESH) is a solution to mismatched timing of solar energy and home energy demand. By altering the temperature of the air mass in a home to store thermal energy, one can avoid the need for other forms of energy storage. This makes solar energy an even more environmentally friendly alternative energy source, while simultaneously reducing the cost of infrastructure. The proposed method was implemented as a prototype and tested. Test results are reported and discussed. <br>
