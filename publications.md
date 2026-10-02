@@ -6,11 +6,17 @@ layout: page
 
 ## Jack of All Scales: A Versatile FPGA Tensor Block for MXFP Precisions
 
-Marwan Mekhemer, Ahmed Elsousy, Raphael Rowley, Balaji Venkatesh, Vaughn Betz, Nachiket Kapre, Andrew Boutros
+Marwan Mekhemer, Ahmed Elsousy, Balaji Venkatesh, Raphael Rowley, Vaughn Betz, Nachiket Kapre, and Andrew Boutros
 
 *2026 International Conference on Field-Programmable Logic and Applications in Gent, Belgium*
 
 Modern deep learning workloads increasingly rely on narrow numerical formats to improve efficiency and reduce memory footprint. The recently standardized microscaling floating-point (MXFP) family of formats, including MXFP8, MXFP6, and MXFP4, offers a practical approach to low-precision inference, yet the digital signal processing (DSP) blocks in current FPGA architectures offer limited native support for these formats. We propose targeted modifications to the Altera Agilex-5 FPGAs' DSP block's internal tensor-mode architecture that enable native support for all MXFP precisions while retaining backward compatibility. Our results demonstrate a geometric mean throughput improvement of 5.4$\times$ across all MXFP formats.
+
+[FPL 2026 Paper PDF](./assets/fpl2026-paper.pdf)
+
+[FPL 2026 Video](https://youtu.be/t80v8OGscaY)
+
+[Source Code on GitHub](https://github.com/boutros-lab/fpga-mxfp)
 
 ## Accelerating Belief Propagation with Task-Based Hardware Parallelism
 
@@ -27,7 +33,7 @@ DOI: 10.1109/CCECE64018.2025.11364448
 
 [CCECE 2025 Paper PDF](./assets/ccece2025-paper.pdf)
 
-[CCECE 2025 Slides PDF](./assets/ccece2025.pdf)
+[CCECE 2025 Slides PDF](./assets/ccece2025-slides.pdf)
 
 [UofT BASc Thesis PDF](./assets/bv-basc-thesis.pdf)
 

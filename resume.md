@@ -34,7 +34,7 @@ Markham, ON, Canada | Jan 2019 - Mar 2021
 
 ### Master of Applied Science in Electrical and Computer Engineering, University of Waterloo
 Waterloo, ON, Ontario | Sep 2025 - Present
-- Supervised by [Dr. Andrew Boutros](https://andrewboutros.github.io/)
+- Supervised by [Dr. Andrew Boutros](https://andrewboutros.com/)
 
 ### Bachelor of Applied Science in Engineering Science with Honours, University of Toronto
 Toronto, ON, Canada | Sep 2020 - Apr 2024
